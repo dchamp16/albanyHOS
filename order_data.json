@@ -1,0 +1,26 @@
+[
+  {
+    "materialID": 1,
+    "materialPO": "80067890",
+    "oldMaterialPO": "96060-10-6-4",
+    "description": "Carbon Pin",
+    "materialGroup": "Pin",
+    "dateCreated": "2023-11-18T10:55:52Z"
+  },
+  {
+    "materialID": 2,
+    "materialPO": "80067890",
+    "oldMaterialPO": "96060-10-6-4",
+    "description": "Carbon Pin",
+    "materialGroup": "Pin",
+    "dateCreated": "2023-11-18T10:55:52Z"
+  },
+  {
+    "materialID": 3,
+    "materialPO": "80067890",
+    "oldMaterialPO": "96060-10-6-4",
+    "description": "Carbon Pin",
+    "materialGroup": "Pin",
+    "dateCreated": "2024-11-18T19:20:25.282Z"
+  }
+]

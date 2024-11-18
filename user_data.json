@@ -1,0 +1,14 @@
+[
+  {
+  "orderId": 1,
+  "empID": "12345",
+  "empName": "Peter",
+  "structurePO": "80012345",
+  "structureName": "AFT 34",
+  "bomOps": "140.05",
+  "techOps": "",
+  "empOrder": "96060-10-6-9",
+  "orderRequireTime": "ASAP",
+  "orderCreated": "new Date()"
+}
+]
